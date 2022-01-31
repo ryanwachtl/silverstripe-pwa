@@ -12,9 +12,9 @@ SilverStripe\Control\Director:
     'RegisterSubscription': 'SilverStripePWA\Controllers\RegisterSubscriptionController'
 
 SilverStripe\SiteConfig\SiteConfig:
-    extensions:
-        - SilverStripePWA\Extensions\ManifestSiteConfigExtension
-        - SilverStripePWA\Extensions\PushNotificationsSiteConfigExtension
+  extensions:
+    - SilverStripePWA\Extensions\ManifestSiteConfigExtension
+    - SilverStripePWA\Extensions\PushNotificationsSiteConfigExtension
 
 # Add the push-extension to the page of your choosing
 
