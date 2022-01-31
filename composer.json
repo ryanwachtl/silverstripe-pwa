@@ -1,5 +1,5 @@
 {
-    "name": "Anytech/silverstripe-pwa",
+    "name": "anytech/silverstripe-pwa",
     "description": "Module that adds PWA support to SilverStripe project",
     "homepage": "http://github.com/mdiederen/silverstripe-pwa",
     "type": "silverstripe-vendormodule",
